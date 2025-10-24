@@ -1,3 +1,8 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=choisio2%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=지금은%20휴학%20중~&descAlignY=51&descAlign=62"/>
+</p>
+
+
 <div style="text-align: left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗</li></li></li></li></li></li> </div> 
     </div>
