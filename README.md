@@ -1,5 +1,8 @@
+
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=choisio2%20Github!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=404%20Not%20 Found&descAlignY=51&descAlign=85"/>
+
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=choisio2%20Github!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=지금은%20휴학%20중~&descAlignY=51&descAlign=85"/>
+
 </p>
 
 
