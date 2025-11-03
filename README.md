@@ -1,6 +1,3 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=choisio2%20Github!&fontSize=70&animation=fadeIn&fontAlignY=38"/>
-</p>
 
 
 <div style="text-align: left;"> 
@@ -22,7 +19,4 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisio2&layout=compact&bg_color=60,ccf2ff,fdf3ce&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
+    
